@@ -1,0 +1,4 @@
+Season,Yield_Tonnes_Ha,Production_Tonnes,Revenue_INR,Profit_INR,Rainfall_mm,Avg_Temperature_C,Water_Used_m3,Water_Efficiency_t_per_1000m3,Disease_Pest_Risk_pct
+Kharif,5.64,46.31,710719.06,178914.65,852.08,28.45,6102.2,5.89,54.47
+Rabi,5.08,41.49,601526.05,87689.47,436.0,23.49,5846.99,5.19,40.48
+Zaid,4.67,38.89,519171.9,-24804.82,299.42,31.04,6419.89,4.41,38.22
